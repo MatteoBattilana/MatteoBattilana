@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 &nbsp;&nbsp;💡 &nbsp;I like to think that sharing the code is a step forward to solve problems<br/>
-&nbsp;&nbsp;🎓 &nbsp;Enrolled at Politecnico di Torino, Embedded Systems - Computer Engineering<br/>
+&nbsp;&nbsp;🎓 &nbsp;Politecnico di Torino, Embedded Systems - Computer Engineering<br/>
 &nbsp;&nbsp;🔭 &nbsp;Currently learning Embedded Systems firmware development and non-volatile memory testing at Infineon<br/>
 &nbsp;&nbsp;📄 &nbsp;Take a look at my [Curriculum Vitae](https://github.com/MatteoBattilana/MatteoBattilana/blob/main/CV.pdf) for more details about me<br/>
 
